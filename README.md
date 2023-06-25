@@ -77,11 +77,11 @@ Kesimpulan : Perbedaan utama antara stateless dan stateful stream processing ada
     <td>
     Stateless
     <td> 
-      <img src="C:\Users\Chaidir Wiradhika\Documents\SEMESTER 6\Big Data\spark-streaming\Stateless_1\1.jpeg"><br><br>
-      <img src="C:\Users\Chaidir Wiradhika\Documents\SEMESTER 6\Big Data\spark-streaming\Stateless_1\2.jpeg"><br><br>
-      <img src="C:\Users\Chaidir Wiradhika\Documents\SEMESTER 6\Big Data\spark-streaming\Stateless_1\3.jpeg"><br><br>
-      <img src="C:\Users\Chaidir Wiradhika\Documents\SEMESTER 6\Big Data\spark-streaming\Stateless_1\4.jpeg"><br><br>
-      <img src="C:\Users\Chaidir Wiradhika\Documents\SEMESTER 6\Big Data\spark-streaming\Stateless_1\nc -lk 9999.jpeg"><br><br>
+      ![Screenshot](Stateless_1/1.jpeg)
+      ![Screenshot](Stateless_1/2.jpeg)
+      ![Screenshot](Stateless_1/3.jpeg)
+      ![Screenshot](Stateless_1/4.jpeg)
+      ![Screenshot](Stateless_1/nc -lk 9999.jpeg)
     </td>
     </td>
     </tr>
@@ -89,12 +89,12 @@ Kesimpulan : Perbedaan utama antara stateless dan stateful stream processing ada
     <td>    
     Stateful
     <td>
-      <img src="C:\Users\Chaidir Wiradhika\Documents\SEMESTER 6\Big Data\spark-streaming\Stateful_2\1.jpeg"><br><br>
-      <img src="C:\Users\Chaidir Wiradhika\Documents\SEMESTER 6\Big Data\spark-streaming\Stateful_2\2.jpeg"><br><br>
-      <img src="C:\Users\Chaidir Wiradhika\Documents\SEMESTER 6\Big Data\spark-streaming\Stateful_2\3.jpeg"><br><br>
-      <img src="C:\Users\Chaidir Wiradhika\Documents\SEMESTER 6\Big Data\spark-streaming\Stateful_2\33.jpeg"><br><br>
-      <img src="C:\Users\Chaidir Wiradhika\Documents\SEMESTER 6\Big Data\spark-streaming\Stateful_2\4.jpeg"><br><br>
-      <img src="C:\Users\Chaidir Wiradhika\Documents\SEMESTER 6\Big Data\spark-streaming\Stateful_2\nc -lk 9999.jpeg"><br><br>
+      ![Screenshot](Stateful_2/1.jpeg)
+      ![Screenshot](Stateful_2/2.jpeg)
+      ![Screenshot](Stateful_2/3.jpeg)
+      ![Screenshot](Stateful_2/33.jpeg)
+      ![Screenshot](Stateful_2/4.jpeg)
+      ![Screenshot](Stateful_2/nc -lk 9999.jpeg)
   </td>
     </td>
     </tr>
@@ -102,11 +102,11 @@ Kesimpulan : Perbedaan utama antara stateless dan stateful stream processing ada
     <td>
      Transformasi Word Sentiment
     <td>
-      <img src="C:\Users\Chaidir Wiradhika\Documents\SEMESTER 6\Big Data\spark-streaming\Transformasi_Word_Sentiment_3\TWS1.jpeg" width=80% height=80%><br><br>
-      <img src="C:\Users\Chaidir Wiradhika\Documents\SEMESTER 6\Big Data\spark-streaming\Transformasi_Word_Sentiment_3\TWS2.jpeg" width=80% height=80%><br><br>
-      <img src="C:\Users\Chaidir Wiradhika\Documents\SEMESTER 6\Big Data\spark-streaming\Transformasi_Word_Sentiment_3\TWS3.jpeg" width=80% height=80%><br><br>
-      <img src="C:\Users\Chaidir Wiradhika\Documents\SEMESTER 6\Big Data\spark-streaming\Transformasi_Word_Sentiment_3\TWS4.jpeg"><br><br>
-      <img src="C:\Users\Chaidir Wiradhika\Documents\SEMESTER 6\Big Data\spark-streaming\Transformasi_Word_Sentiment_3\TWS44.jpeg"><br><br>
+      ![Screenshot](Transformasi_Word_Sentiment_3/TWS1.jpeg)
+      ![Screenshot](Transformasi_Word_Sentiment_3/TWS2.jpeg)
+      ![Screenshot](Transformasi_Word_Sentiment_3/TWS3.jpeg)
+      ![Screenshot](Transformasi_Word_Sentiment_3/TWS4.jpeg)
+      ![Screenshot](Transformasi_Word_Sentiment_3/TWS44.jpeg)
       
   </td>
     </td>
