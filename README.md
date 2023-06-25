@@ -71,7 +71,7 @@ Kesimpulan : Perbedaan utama antara stateless dan stateful stream processing ada
      - rdd.sortByKey(False): Mengurutkan pasangan kunci-nilai dalam RDD berdasarkan kunci secara menurun (descending order).
   ```
 
-## SS CLAUDERA
+## SS CLOUDERA
     Stateless
 ![Screenshot](SS/Stateless/1.jpeg)
 ![Screenshot](SS/Stateless/2.jpeg)
