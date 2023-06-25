@@ -77,17 +77,19 @@ Kesimpulan : Perbedaan utama antara stateless dan stateful stream processing ada
 ![Screenshot](SS/Stateless/2.jpeg)
 ![Screenshot](SS/Stateless/3.jpeg)
 ![Screenshot](SS/Stateless/4.jpeg)
-![Screenshot](SS/Stateless/nc-lk9999.jpeg) 
+![Screenshot](SS/Stateless/5.jpeg)
+
     Stateful
 ![Screenshot](SS/Stateful/1.jpeg)
 ![Screenshot](SS/Stateful/2.jpeg)
 ![Screenshot](SS/Stateful/3.jpeg)
 ![Screenshot](SS/Stateful/33.jpeg)
 ![Screenshot](SS/Stateful/4.jpeg)
-![Screenshot](SS/Stateful/nc-lk9999.jpeg)
+![Screenshot](SS/Stateful/5.jpeg)
+
     Transformasi Word Sentiment
-![Screenshot](SS/TransformasiWordSentiment/TWS1.jpeg)
-![Screenshot](SS/TransformasiWordSentiment/TWS2.jpeg)
-![Screenshot](SS/TransformasiWordSentiment/TWS3.jpeg)
-![Screenshot](SS/TransformasiWordSentiment/TWS4.jpeg)
-![Screenshot](SS/TransformasiWordSentiment/TWS44.jpeg)
+![Screenshot](SS/TWS/1.jpeg)
+![Screenshot](SS/TWS/2.jpeg)
+![Screenshot](SS/TWS/3.jpeg)
+![Screenshot](SS/TWS/4.jpeg)
+![Screenshot](SS/TWS/5.jpeg)
