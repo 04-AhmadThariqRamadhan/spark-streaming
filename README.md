@@ -1,7 +1,7 @@
 <a name="readme-top"></a>
 
 ## PERTANYAAN SOAL
-<img src = 'C:\Users\Chaidir Wiradhika\Documents\SEMESTER 6\Big Data\spark-streaming\Soal.png' width=60% height=50%>
+<img src = 'C:\Users\Chaidir Wiradhika\Documents\SEMESTER 6\Big Data\spark-streaming\Soal.jpeg' width=60% height=50%>
 
 ## TUGAS 6
 
