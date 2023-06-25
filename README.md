@@ -77,7 +77,7 @@ Kesimpulan : Perbedaan utama antara stateless dan stateful stream processing ada
 ![Screenshot](SS/Stateless/2.jpeg)
 ![Screenshot](SS/Stateless/3.jpeg)
 ![Screenshot](SS/Stateless/4.jpeg)
-![Screenshot](SS/Stateless/nc -lk 9999.jpeg) 
+![Screenshot](SS/Stateless/nc-lk9999.jpeg) 
     Stateful
 ![Screenshot](SS/Stateful/1.jpeg)
 ![Screenshot](SS/Stateful/2.jpeg)
