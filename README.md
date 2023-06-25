@@ -72,45 +72,22 @@ Kesimpulan : Perbedaan utama antara stateless dan stateful stream processing ada
   ```
 
 ## SS CLAUDERA
-<table>
-  <tr align="center">
-    <td>
     Stateless
-    <td> 
       ![Screenshot](Stateless_1/1.jpeg)
       ![Screenshot](Stateless_1/2.jpeg)
       ![Screenshot](Stateless_1/3.jpeg)
       ![Screenshot](Stateless_1/4.jpeg)
       ![Screenshot](Stateless_1/nc -lk 9999.jpeg)
-    </td>
-    </td>
-    </tr>
-    <tr align="center">
-    <td>    
     Stateful
-    <td>
       ![Screenshot](Stateful_2/1.jpeg)
       ![Screenshot](Stateful_2/2.jpeg)
       ![Screenshot](Stateful_2/3.jpeg)
       ![Screenshot](Stateful_2/33.jpeg)
       ![Screenshot](Stateful_2/4.jpeg)
       ![Screenshot](Stateful_2/nc -lk 9999.jpeg)
-  </td>
-    </td>
-    </tr>
-    <tr align="center">
-    <td>
-     Transformasi Word Sentiment
-    <td>
+    Transformasi Word Sentiment
       ![Screenshot](Transformasi_Word_Sentiment_3/TWS1.jpeg)
       ![Screenshot](Transformasi_Word_Sentiment_3/TWS2.jpeg)
       ![Screenshot](Transformasi_Word_Sentiment_3/TWS3.jpeg)
       ![Screenshot](Transformasi_Word_Sentiment_3/TWS4.jpeg)
       ![Screenshot](Transformasi_Word_Sentiment_3/TWS44.jpeg)
-      
-  </td>
-    </td>
-    </tr>
- </table>
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
