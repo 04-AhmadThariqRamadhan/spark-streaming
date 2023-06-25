@@ -73,26 +73,26 @@ Kesimpulan : Perbedaan utama antara stateless dan stateful stream processing ada
 
 ## SS CLAUDERA
     Stateless
-    
-      ![Screenshot](Stateless_1/1.jpeg)
-      ![Screenshot](Stateless_1/2.jpeg)
-      ![Screenshot](Stateless_1/3.jpeg)
-      ![Screenshot](Stateless_1/4.jpeg)
-      ![Screenshot](Stateless_1/nc -lk 9999.jpeg)
+
+      ![Screenshot](SS/Stateless/1.jpeg)
+      ![Screenshot](SS/Stateless/2.jpeg)
+      ![Screenshot](SS/Stateless/3.jpeg)
+      ![Screenshot](SS/Stateless/4.jpeg)
+      ![Screenshot](SS/Stateless/nc -lk 9999.jpeg)
       
     Stateful
     
-      ![Screenshot](Stateful_2/1.jpeg)
-      ![Screenshot](Stateful_2/2.jpeg)
-      ![Screenshot](Stateful_2/3.jpeg)
-      ![Screenshot](Stateful_2/33.jpeg)
-      ![Screenshot](Stateful_2/4.jpeg)
-      ![Screenshot](Stateful_2/nc -lk 9999.jpeg)
+      ![Screenshot](SS/Stateful/1.jpeg)
+      ![Screenshot](SS/Stateful/2.jpeg)
+      ![Screenshot](SS/Stateful/3.jpeg)
+      ![Screenshot](SS/Stateful/33.jpeg)
+      ![Screenshot](SS/Stateful/4.jpeg)
+      ![Screenshot](SS/Stateful/nc -lk 9999.jpeg)
       
     Transformasi Word Sentiment
     
-      ![Screenshot](Transformasi_Word_Sentiment_3/TWS1.jpeg)
-      ![Screenshot](Transformasi_Word_Sentiment_3/TWS2.jpeg)
-      ![Screenshot](Transformasi_Word_Sentiment_3/TWS3.jpeg)
-      ![Screenshot](Transformasi_Word_Sentiment_3/TWS4.jpeg)
-      ![Screenshot](Transformasi_Word_Sentiment_3/TWS44.jpeg)
+      ![Screenshot](SS/Transformasi Word Sentiment/TWS1.jpeg)
+      ![Screenshot](SS/Transformasi Word Sentiment/TWS2.jpeg)
+      ![Screenshot](SS/Transformasi Word Sentiment/TWS3.jpeg)
+      ![Screenshot](SS/Transformasi Word Sentiment/TWS4.jpeg)
+      ![Screenshot](SS/Transformasi Word Sentiment/TWS44.jpeg)
